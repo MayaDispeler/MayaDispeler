@@ -105,11 +105,11 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MayaDispeler&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MayaDispeler&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MayaDispeler&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=MayaDispeler" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayaDispeler&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MayaDispeler&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" alt="Contribution Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayaDispeler&layout=compact&theme=transparent&hide_border=true&langs_count=10" alt="Top Languages"/>
+<!-- <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MayaDispeler&theme=transparent&hide_border=true" alt="Contribution Graph"/> -->
 
 </div>
 
@@ -228,6 +228,6 @@
 
 ### 💭 *"Where consciousness meets code, innovation emerges"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&height=300&color=timeGradient&section=header&reversal=false" width="100%"/>
 
 </div>
