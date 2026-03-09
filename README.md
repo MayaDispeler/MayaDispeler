@@ -1,283 +1,310 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:1a0a2e,50:0d1b2a,75:1a0a2e,100:0a0a0a&height=220&section=header&text=SRIHARI%20VENKATESAN&fontSize=42&fontColor=00e5ff&fontAlignY=35&desc=GTM%20Engineer%20•%20AI%20Systems%20Architect%20•%20Data%20Pipeline%20Builder%20•%20Author&descSize=14&descAlignY=55&descAlign=50&animation=fadeIn" width="100%" alt="Header" />
+# ⚡ SRIHARI VENKATESAN
 
-<br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=60&lines=GTM+Engineer;AI+Systems+Architect;Data+Pipeline+Builder;Published+Author)](https://git.io/typing-svg)
 
-> **"Your Stack Has 50 Tools. Zero Intelligence. I Fix It."**<br> — *iamsrihari.com*
+<table width="100%" style="border-collapse: collapse; border: none;">
+<tr>
+<td width="55%" align="left" style="border: none;">
+
+> *"Your Stack Has 50 Tools. Zero Intelligence. I Fix It."*
+> <br>— **[iamsrihari.com](https://iamsrihari.com)**
+
+</td>
+<td width="45%" align="right" style="border: none;">
+
+[![Portfolio](https://img.shields.io/badge/Website-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=0a0a0a&labelColor=0a0a0a&color=00e5ff)](https://iamsrihari.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00e5ff?style=for-the-badge&logo=linkedin&logoColor=0a0a0a&labelColor=0a0a0a&color=00e5ff)](https://www.linkedin.com/in/sriharivvenkatesan)
+[![HuggingFace](https://img.shields.io/badge/HF-00e5ff?style=for-the-badge&logo=huggingface&logoColor=0a0a0a&labelColor=0a0a0a&color=00e5ff)](https://huggingface.co/SrihariV)
+<br>
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=0a0a0a)](https://www.youtube.com/@TheAtmansAlgorithm)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&color=0a0a0a)](https://medium.com/@ksvhari007)
+[![Instagram](https://img.shields.io/badge/Insta-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0a0a0a)](https://www.instagram.com/srihari_venkatesan/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=0a0a0a)](mailto:srihariv4942@gmail.com)
+
+</td>
+</tr>
+</table>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MayaDispeler&label=SYSTEM_PINGS&color=00e5ff&style=for-the-badge&labelColor=0a0a0a)
+![Followers](https://img.shields.io/github/followers/MayaDispeler?style=for-the-badge&color=00e5ff&labelColor=0a0a0a)
+
+</div>
+
+---
+
+<div align="center">
+  <h2><code>sudo whoami</code></h2>
+</div>
+
+<div align="center">
+
+> **Lead Engineer (AI Consultant)** at Kissflow Inc, Chennai  
+> *Building AI-powered GTM systems that process millions of data points, automate revenue operations end-to-end, and turn raw CRM chaos into pipeline velocity.*
 
 <br>
 
-<!-- Visitor & Follower Badges -->
-<a href="https://github.com/MayaDispeler"><img src="https://komarev.com/ghpvc/?username=MayaDispeler&label=Profile%20Views&color=00e5ff&style=for-the-badge" alt="Profile Views" /></a>
-<a href="https://github.com/MayaDispeler?tab=followers"><img src="https://img.shields.io/github/followers/MayaDispeler?style=for-the-badge&color=00e5ff&labelColor=0a0a0a" alt="Followers" /></a>
+| ⏳ **OVERVIEW** | ⚙️ **EXPERIENCE** | 🏆 **RECOGNITION** |
+|:---:|:---:|:---:|
+| **8+ Years** shipping prod systems | From **Mainframes** to **LLM engines** | **3 Promotions** in 4.5 Years |
+| **10M+ Events/Day** pipelines | **GTM / CRM** self-optimizing arch. | **Clay Certified** & Published Author |
 
-<br><br>
+*I don't just implement tools. I engineer the intelligence layer that makes your entire go-to-market motion self-optimizing.*
 
-<!-- SOCIAL LINKS GRID -->
-<a href="https://iamsrihari.com"><img src="https://img.shields.io/badge/Website-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=0a0a0a&labelColor=0a0a0a" alt="Website" /></a>
-<a href="https://www.linkedin.com/in/sriharivvenkatesan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://huggingface.co/SrihariV"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" /></a>
-<a href="https://www.youtube.com/@TheAtmansAlgorithm"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://medium.com/@ksvhari007"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-<a href="mailto:srihariv4942@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
+---
+
+<h2 align="center">⚡ THE SRIHARI STACK & PRODUCTION IMPACT</h2>
+
+<div align="center">
+
+```mermaid
+flowchart LR
+    classDef cyberpunk fill:#0a0a0a,stroke:#00e5ff,stroke-width:2px,color:#00e5ff;
+    
+    subgraph INGEST [📥 INGEST]
+        direction TB
+        A[HubSpot]:::cyberpunk
+        B[SFDC]:::cyberpunk
+        C[APIs]:::cyberpunk
+        D[Webhooks]:::cyberpunk
+    end
+    
+    subgraph PROCESS [⚙️ PROCESS]
+        direction TB
+        E[Python]:::cyberpunk
+        F[PySpark]:::cyberpunk
+        G[SQL]:::cyberpunk
+        H[Airflow]:::cyberpunk
+    end
+    
+    subgraph ENRICH [🧠 ENRICH]
+        direction TB
+        I[OpenAI/Claude]:::cyberpunk
+        J[RAG]:::cyberpunk
+        K[LangChain]:::cyberpunk
+    end
+    
+    subgraph ACTIVATE [🚀 ACTIVATE]
+        direction TB
+        L[Looker/Tableau]:::cyberpunk
+        M[Slack/Alerts]:::cyberpunk
+    end
+    
+    INGEST -->|Raw Data| PROCESS
+    PROCESS -->|Cleaned Data| ENRICH
+    ENRICH -->|Intelligence| ACTIVATE
+```
+
+<br>
+
+| ⚡ METRIC | 📉 SYSTEM IMPACT | ⚡ METRIC | 📉 SYSTEM IMPACT |
+|:---|:---|:---|:---|
+| **Data Sync** | <kbd>60% FASTER ↑</kbd> | **Manual Reporting** | <kbd>80% LESS ↓</kbd> |
+| **SLA Adherence** | <kbd>40% BETTER ↑</kbd> | **System Uptime** | <kbd>99.9% 🟢</kbd> |
+| **Billing Cycles** | <kbd>30% SHORTER ↓</kbd> | **License Spend** | <kbd>15% LOWER ↓</kbd> |
+| **Manual QA** | <kbd>70% LESS ↓</kbd> | **Scale Volume** | <kbd>10M+ Events/Day 🌊</kbd> |
+
+</div>
+
+---
+
+<h2 align="center">🛠️ THE 50-TOOL ARSENAL</h2>
+
+> *Extracted from my [ToolsGrid](https://iamsrihari.com) — tools actively engineered for production scale.*
+
+<div align="center">
+
+| 🧠 AI & LLMs | 🗄️ Vector DBs | 💻 Code / Frameworks |
+|:---|:---|:---|
+| ![Claude](https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white) <br> ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) <br> ![Gemini](https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white) <br> ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white) <br> ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) <br> ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B28D9?style=for-the-badge) <br> ![CrewAI](https://img.shields.io/badge/CrewAI-FF5733?style=for-the-badge) <br> ![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge) <br> ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge) | ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge) <br> ![Weaviate](https://img.shields.io/badge/Weaviate-FF6347?style=for-the-badge) <br> ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) <br> ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
+
+| 🎯 GTM / RevOps | ⚙️ Automation | 📊 Data & Infra |
+|:---|:---|:---|
+| ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white) <br> ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) <br> ![Clay](https://img.shields.io/badge/Clay_Certified-000000?style=for-the-badge) <br> ![Apollo.io](https://img.shields.io/badge/Apollo.io-4A154B?style=for-the-badge) <br> ![ZoomInfo](https://img.shields.io/badge/ZoomInfo-21B573?style=for-the-badge) <br> ![Sales Nav](https://img.shields.io/badge/LinkedIn_Sales_Nav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) | ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white) <br> ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) <br> ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white) <br> ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900) <br> ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) <br> ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) <br> ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+
+<details>
+<summary><b>🔥 AND MANY MORE (Click to Expand)</b></summary>
+<br>
+
+| 📈 Analytics & Marketing | 💻 Productivity | 📡 Supporting Infra |
+|:---|:---|:---|
+| GA4, Semrush, Hotjar, Mixpanel, Mailchimp | Cursor IDE, Notion, Airtable, Retool, Calendly, Loom | Supabase, Firebase, dbt, Airbyte, Fivetran, AWS Lambda, Vercel, GH Actions |
+
+</details>
+
+</div>
+
+---
+
+<h2 align="center">🚀 FEATURED INTELLIGENCE ENGINES</h2>
+
+<div align="center">
+
+| 🔮 **B2B Intent Signal Engine** | 🕵️ **Account Intelligence Agent** |
+|:---|:---|
+| Firmographic + technographic + intent scoring.<br>Identifies high-intent prospects by combining funding events, tech stack changes, and hiring patterns. | AI-powered account research & sales dossiers.<br>Scrapes company websites and generates intelligence slide decks for GTM teams. |
+| `Status:` 🔒 *Portfolio Demo* | `Status:` 🔒 *Portfolio Demo* |
+
+| 📊 **AI Lead Scoring Engine** | 🎯 **Pitch.AI — Email Personalization** |
+|:---|:---|
+| Weighted multi-signal lead qualification with configurable scoring and automated routing logic. | LLM-powered email engine crafting contextual messaging based on company data, role, and intent signals. |
+| `Status:` 🔒 *Portfolio Demo* | `Status:` 🔒 *Portfolio Demo* |
+
+| 🎯 **Customer Churn Predictor** | 📄 **Contextly — AI Document Assistant** |
+|:---|:---|
+| XGBoost + SHAP explainability engine. Predicts churn with actionable retention recommendations. | RAG-powered PDF analyzer with semantic search. LangChain + retrieval-augmented generation. |
+| [![Live](https://img.shields.io/badge/🔴_Live-FF4B4B?style=for-the-badge)](https://srihariv-customer-churn-predictor.hf.space) [![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/MayaDispeler/customer-churn-predictor) | [![Live](https://img.shields.io/badge/🔴_Live-FF4B4B?style=for-the-badge)](https://contextly.streamlit.app) [![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/MayaDispeler/DOC-AI-APP) |
+
+| 📊 **AI Business Intelligence** | 📈 **CPG Demand Forecasting** |
+|:---|:---|
+| Natural language → SQL → Visual analytics.<br>Full NL2SQL pipeline. | ML-powered demand prediction for CPG industry. Supply chain & inventory optimization. |
+| [![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/MayaDispeler/AI-Data-Analyst) | [![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/MayaDispeler/CPG-Demand-Forecasting) |
 
 </div>
 
 <br>
-<hr>
 
-<!-- ABOUT ME SECTION -->
-<table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h2>👨‍💻 <code>$ whoami</code></h2>
-      <h3>Lead Engineer (AI Consultant) @ Kissflow Inc, Chennai</h3>
-      <p>Building AI-powered GTM systems that process millions of data points, automate revenue operations end-to-end, and turn raw CRM chaos into pipeline velocity.</p>
-      <ul>
-        <li>🚀 <b>8+ years</b> shipping production systems (Mainframes to LLM pipelines).</li>
-        <li>📈 Engineered PySpark pipelines processing <b>10M+ events/day</b>.</li>
-        <li>⭐ <b>3 promotions in 4.5 years.</b> Clay Certified. Published author.</li>
-      </ul>
-      <blockquote><i>I don't just implement tools. I engineer the intelligence layer that makes your entire go-to-market motion self-optimizing.</i></blockquote>
-    </td>
-    <td width="40%" align="center" valign="top">
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=MayaDispeler&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&ring_color=00e5ff&line_height=26" alt="GitHub Stats" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<!-- SYSTEM ARCHITECTURE -->
-<h2 align="center">⚡ System Architecture & Impact</h2>
+<details>
+<summary align="center"><b>🧪 EXPLORE ALL REPOSITORIES (13 Total)</b></summary>
+<br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Ingest:+HubSpot,+SFDC,+APIs;Process:+Python,+SQL,+PySpark;Enrich:+OpenAI,+Claude,+RAG;Activate:+Looker,+Slack,+Alerts" alt="Typing SVG" />
+
+| 📦 Repository | 💡 Description | 🔗 Links |
+|:---|:---|:---|
+| **[Morsent-128-Mini](https://github.com/MayaDispeler/Morsent-128-Mini)** | Fine-tuned GPT-2 English↔Morse | [![Code](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/Morsent-128-Mini) [![HF](https://img.shields.io/badge/Model-FFD21E?style=flat-square)](https://huggingface.co/SrihariV/Morsent-128-mini) |
+| **[orange-swiggy-analytics](https://github.com/MayaDispeler/orange-swiggy-analytics)** | 5K+ order analytics dashboard | [![Code](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/orange-swiggy-analytics) |
+| **[PySpark-Pro-Playbook](https://github.com/MayaDispeler/PySpark-Pro-Playbook)** | Big data engineering guide | [![Code](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/PySpark-Pro-Playbook) |
+| **[firewall-threat-detection](https://github.com/MayaDispeler/firewall-threat-detection)** | ML anomaly detection on firewall logs | [![Code](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/firewall-threat-detection) |
+| **[DOC-AI-APP](https://github.com/MayaDispeler/DOC-AI-APP)** | RAG PDF analyzer (Contextly) | [![Code](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/DOC-AI-APP) [![Live](https://img.shields.io/badge/Live-FF4B4B?style=flat-square)](https://contextly.streamlit.app) |
+
 </div>
-<br>
-
-<table align="center" width="100%">
-  <tr align="center">
-    <td width="25%"><h3>⚡ 60% Faster</h3><p>Data Synchronization</p></td>
-    <td width="25%"><h3>📉 80% Less</h3><p>Manual Reporting</p></td>
-    <td width="25%"><h3>🎯 40% Better</h3><p>SLA Adherence</p></td>
-    <td width="25%"><h3>🛡️ 99.9%</h3><p>System Uptime</p></td>
-  </tr>
-  <tr align="center">
-    <td width="25%"><h3>⏱️ 30% Shorter</h3><p>Billing Cycles</p></td>
-    <td width="25%"><h3>💰 15% Lower</h3><p>License Spend</p></td>
-    <td width="25%"><h3>✅ 70% Less</h3><p>Manual QA</p></td>
-    <td width="25%"><h3>🌊 10M+</h3><p>Events/Day Processed</p></td>
-  </tr>
-</table>
-
-<hr>
-
-<!-- TOOL ARSENAL WITH ACCORDIONS -->
-<h2>🛠️ Full Tool Arsenal — The 50-Tool Stack</h2>
-<p><i>Extracted from <a href="https://iamsrihari.com">iamsrihari.com ToolsGrid</a> — tools I actively use in production.</i></p>
-
-<details open>
-  <summary><b>🧠 AI, LLMs & Vector DBs</b></summary>
-  <br>
-  <p>
-    <img src="https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-    <img src="https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-    <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity"/>
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-    <img src="https://img.shields.io/badge/LlamaIndex-6B28D9?style=for-the-badge" alt="LlamaIndex"/>
-    <img src="https://img.shields.io/badge/CrewAI-FF5733?style=for-the-badge" alt="CrewAI"/>
-    <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone"/>
-    <img src="https://img.shields.io/badge/Weaviate-FF6347?style=for-the-badge" alt="Weaviate"/>
-  </p>
 </details>
 
-<details>
-  <summary><b>💼 GTM, CRM & RevOps</b></summary>
-  <br>
-  <p>
-    <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot"/>
-    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
-    <img src="https://img.shields.io/badge/Clay_Certified-000000?style=for-the-badge" alt="Clay"/>
-    <img src="https://img.shields.io/badge/Apollo.io-4A154B?style=for-the-badge" alt="Apollo"/>
-    <img src="https://img.shields.io/badge/ZoomInfo-21B573?style=for-the-badge" alt="ZoomInfo"/>
-    <img src="https://img.shields.io/badge/Sales_Navigator-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Sales Nav"/>
-  </p>
-</details>
+---
 
-<details>
-  <summary><b>⚙️ Data, Backend & Cloud Infra</b></summary>
-  <br>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
-    <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
-    <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
-    <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  </p>
-</details>
-
-<hr>
-
-<!-- PORTFOLIO PROJECTS BOARD -->
-<h2 align="center">🚀 Featured Portfolio Projects</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📈 CPG Demand Forecasting</h3>
-      <p>ML-powered demand prediction for CPG industry. Focuses heavily on supply chain & inventory optimization workflows.</p>
-      <a href="https://github.com/MayaDispeler/CPG-Demand-Forecasting"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github" alt="Source"></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📄 Contextly — AI Document Assistant</h3>
-      <p>RAG-powered PDF analyzer with semantic search. Features LangChain + retrieval-augmented generation.</p>
-      <a href="https://contextly.streamlit.app"><img src="https://img.shields.io/badge/🔴_Live_App-FF4B4B?style=flat-square" alt="Live"></a>
-      <a href="https://github.com/MayaDispeler/DOC-AI-APP"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github" alt="Source"></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 Customer Churn Predictor</h3>
-      <p>XGBoost + SHAP explainability engine. Predicts churn with actionable retention recommendations.</p>
-      <a href="https://srihariv-customer-churn-predictor.hf.space"><img src="https://img.shields.io/badge/🔴_Live_App-FF4B4B?style=flat-square" alt="Live"></a>
-      <a href="https://github.com/MayaDispeler/customer-churn-predictor"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github" alt="Source"></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 AI Business Intelligence Reporter</h3>
-      <p>Natural language → SQL → Visual analytics. Full NL2SQL pipeline converting english queries directly to dynamic charts.</p>
-      <a href="https://github.com/MayaDispeler/AI-Data-Analyst"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github" alt="Source"></a>
-    </td>
-  </tr>
-</table>
-
-<br>
-<details>
-  <summary><b>🔍 View More Advanced Proprietary Systems</b></summary>
-  <table width="100%">
-    <tr>
-      <td width="50%">
-        <b>🔮 B2B Intent Signal Engine</b><br>
-        Firmographic + technographic + intent scoring combining funding events based signals. <code>[Private]</code>
-      </td>
-      <td width="50%">
-        <b>🕵️ Account Intelligence Agent</b><br>
-        AI-powered account research scraping websites and generating slide decks for GTM. <code>[Private]</code>
-      </td>
-    </tr>
-  </table>
-</details>
-
-<hr>
-
-<!-- OPEN SOURCE REPOS AND LIVE DEPLOYMENTS -->
-<h2>🌐 Open Source & Live Deployments</h2>
-
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧪 Top Open Source Repos</h3>
-      <ul>
-        <li><a href="https://github.com/MayaDispeler/CPG-Demand-Forecasting"><b>CPG-Demand-Forecasting</b></a></li>
-        <li><a href="https://github.com/MayaDispeler/Morsent-128-Mini"><b>Morsent-128-Mini</b></a> (GPT-2 Fine-tune)</li>
-        <li><a href="https://github.com/MayaDispeler/orange-swiggy-analytics"><b>orange-swiggy-analytics</b></a></li>
-        <li><a href="https://github.com/MayaDispeler/PySpark-Pro-Playbook"><b>PySpark-Pro-Playbook</b></a></li>
-        <li><a href="https://github.com/MayaDispeler/firewall-threat-detection"><b>firewall-threat-detection</b></a></li>
-      </ul>
-      <blockquote><a href="https://github.com/MayaDispeler?tab=repositories"><i>View all 13 Repositories →</i></a></blockquote>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔴 Live Sites & Models</h3>
-      <ul>
-        <li><a href="https://nexus4d.netlify.app"><b>Nexus 4D</b></a> <i>(Interactive)</i></li>
-        <li><a href="https://thelastshift.netlify.app/"><b>The Last Shift</b></a> <i>(Interactive)</i></li>
-        <li><a href="https://srihariv-customer-churn-predictor.hf.space"><b>Churn Predictor</b></a> <i>(HF Spaces)</i></li>
-        <li><a href="https://contextly.streamlit.app"><b>Contextly Doc AI</b></a> <i>(Streamlit)</i></li>
-        <li><a href="https://huggingface.co/SrihariV/Morsent-128-mini"><b>Morsent-128-mini Model</b></a> <i>(HF Hub)</i></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<!-- CAREER TIMELINE & ACUMEN -->
-<table width="100%">
-  <tr>
-    <td width="48%" valign="top">
-      <h2>🗺️ Career Trajectory</h2>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li>🚀 <b>[NOW]</b> Building AI GTM tools, OS projects. <br><i>Target: GTM Engineer / AI Solutions Architect</i></li>
-        <li><br></li>
-        <li>👑 <b>[2021]</b> Kissflow — Lead Engineer <br><i>3 promotions; architecting LLM-powered RevOps.</i></li>
-        <li><br></li>
-        <li>🌊 <b>[2020]</b> GAVS — Data Engineer<br><i>PySpark & AWS pipelines processing 10M+ events/day.</i></li>
-        <li><br></li>
-        <li>💻 <b>[2017]</b> TCS — System Engineer<br><i>Mainframes, L3 banking support globally.</i></li>
-      </ul>
-    </td>
-    <td width="4%"></td>
-    <td width="48%" valign="top">
-      <h2>📬 Work Acumen</h2>
-      <ul>
-        <li><b>AI Engineering:</b> Production-grade AI agents, RAG systems, and LLM workflows tailored for real-world impact.</li>
-        <li><b>GTM Engineering:</b> Robust data infrastructure and pipelines that automate inbound & outbound cycles.</li>
-        <li><b>RevOps Architecture:</b> End-to-end CRM ecosystems maximizing scalable revenue ops.</li>
-        <li><b>Automation:</b> Bridging disparate stacks using complex workflows and APIs.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<!-- CONTINUOUS LEARNING -->
 <div align="center">
-  <h2>🎓 Qualifications & Certifications</h2>
-  <img src="https://img.shields.io/badge/IBM_Data_Science_Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM" />
-  <img src="https://img.shields.io/badge/HubSpot_RevOps_Certified-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot" />
-  <img src="https://img.shields.io/badge/Clay_Certified-000000?style=for-the-badge" alt="Clay" />
-  <img src="https://img.shields.io/badge/AWS_Data_Eng_(In_Progress)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+
+<table width="100%" style="border: none;">
+<tr>
+<td width="30%" valign="top" style="border: none;">
+
+<h2 align="center">🌐 LIVE DEPLOYMENTS</h2>
+
+| Application | Platform | Link |
+|:---|:---|:---|
+| 🌀 **Nexus 4D** | `Netlify` | [*Deploy*](https://nexus4d.netlify.app) |
+| ☢️ **The Last Shift** | `Netlify` | [*Deploy*](https://thelastshift.netlify.app/) |
+| 📄 **Contextly** | `Streamlit` | [*Deploy*](https://contextly.streamlit.app) |
+| 🎯 **Churn Predictor** | `HF Spaces` | [*Deploy*](https://srihariv-customer-churn-predictor.hf.space) |
+| 🧠 **Morsent-128** | `HF Hub` | [*Deploy*](https://huggingface.co/SrihariV/Morsent-128-mini) |
+| 🌐 **Portfolio** | `Netlify` | [*Deploy*](https://iamsrihari.com) |
+
+</td>
+<td width="70%" valign="top" style="border: none;">
+
+<h2 align="center">📈 SYSTEM TELEMETRY (GITHUB)</h2>
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=MayaDispeler&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&ring_color=00e5ff" alt="GitHub Stats"/>
+<img height="155" src="https://streak-stats.demolab.com/?user=MayaDispeler&theme=transparent&hide_border=true&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=555555&background=0a0a0a" alt="GitHub Streak"/>
+<br>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayaDispeler&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00e5ff&text_color=c9d1d9&langs_count=5" alt="Top Languages"/>
+<img height="155" src="https://github-readme-activity-graph.vercel.app/graph?username=MayaDispeler&bg_color=0a0a0a&color=00e5ff&line=00e5ff&point=fff&area=true&hide_border=true&title_color=00e5ff" alt="Activity Graph"/>
+
+</td>
+</tr>
+</table>
+
 </div>
 
-<hr>
+---
 
-<!-- MELLIVORA HYPOTHESIS & CURRENT STATUS -->
-<table width="100%">
+<h2 align="center">🗺️ CAREER TRAJECTORY & ACUMEN</h2>
+
+<div align="center">
+
+> *"I don't just implement tools. I build engines. Connecting every tool in your stack into one intelligent system."*
+
+| ⏳ TIMESTAMP | 🏗️ ROLE & ARCHITECTURE | 🏢 ORG |
+|:---:|:---|:---:|
+| `> NOW_` | **Building AI-powered GTM tools, open-source projects, writing**<br>*Targeting: GTM Engineer / AI Engineer / Solutions Architect* | 🚀 **Independent** |
+| `> 2021_` | **Lead Engineer → RevOps → Python Integration Engineer**<br>*3 promotions in 4.5 years. AI Consultant building LLM-powered GTM systems.* | 🟠 **Kissflow** |
+| `> 2020_` | **Data Engineer**<br>*Built PySpark, AWS EMR pipelines processing 10M+ events/day.* | 🔵 **GAVS** |
+| `> 2017_` | **System Engineer**<br>*L3 banking support across 3 data centers (Mainframes, COBOL, DB2).* | 🏛️ **TCS** |
+
+<br>
+
+**DOMAIN EXPERTISE:** `AI Engineering` • `GTM Engineering` • `RevOps & CRM Arch.` • `Automation Flow`
+
+<br>
+
+| 🏅 CERTIFICATIONS ACHIEVED | ⏳ IN PROGRESS |
+|:---:|:---:|
+| ![IBM](https://img.shields.io/badge/IBM_Data_Science_Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white) <br> ![HubSpot](https://img.shields.io/badge/HubSpot_RevOps_Certified-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white) <br> ![Clay](https://img.shields.io/badge/Clay_Certified-000000?style=for-the-badge) | ![AWS](https://img.shields.io/badge/AWS_Data_Eng_(In_Progress)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900) <br> ![Salesforce](https://img.shields.io/badge/SFDC_Dev_(In_Progress)-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) |
+
+</div>
+
+---
+
+<h2 align="center">📚 THE MELLIVORA HYPOTHESIS</h2>
+
+<div align="center">
+
+> ### *"Ignoring Market Signals Might Be Your Best Strategy"*
+> ***
+> **12 Chapters • 45,000+ Words • Business Strategy**
+> 
+> *Part I:* The Hypothesis &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; *Part II:* The Middle Game<br>
+> *Part III:* The Advantage &nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; *Part IV:* The Execution
+> 
+> ***"The honeybadger doesn't win by being the strongest — it wins by refusing to care about the fight."***
+
+</div>
+
+---
+
+<h2 align="center">🎯 CURRENT FOCUS & ACTIVE THREADS</h2>
+
+```diff
+@@ COMPILING TASKS @@
++ Building AI-powered GTM portfolio tools (B2B Intent, Account Intel, ICP Scoring)
++ Fine-tuning models on HuggingFace (Morsent-128-mini published)
++ Writing The Mellivora Hypothesis
++ Pursuing AWS Data Engineering & Salesforce Developer certifications
++ Shipping live web apps (Nexus 4D, The Last Shift)
+! Open to: GTM Engineer / AI Engineer / Solutions Architect roles
+```
+
+---
+
+<div align="center">
+
+### 💬 *"You don't need to know everything — you just need to know who knows, and how to ask."*
+
+<br>
+
+<table border="1" style="border-collapse: collapse; border: 1px solid #00e5ff; background: #0a0a0a;">
   <tr>
-    <td width="40%" align="center" valign="middle">
-      <h3>📚 The Mellivora Hypothesis</h3>
-      <blockquote>
-        <i>"The honeybadger doesn't win by being the strongest — it wins by refusing to care about the fight."</i>
-      </blockquote>
-      <p><kbd>12 Chapters</kbd> • <kbd>45,000+ Words</kbd> • <kbd>Strategy</kbd></p>
-    </td>
-    <td width="60%">
-      <h3>🎯 Current Focus</h3>
-      <ul>
-        <li>🚀 Building <b>AI-powered GTM portfolio tools</b></li>
-        <li>🧠 Fine-tuning models on HuggingFace</li>
-        <li>✍️ Writing <i>The Mellivora Hypothesis</i></li>
-        <li>🛡️ Pursuing AWS Data Engineering cert</li>
-        <li>🌐 Shipping live web apps</li>
-      </ul>
+    <td align="center" style="padding: 10px;"><b>LET'S BUILD SOMETHING THAT LASTS.</b></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 15px;">
+      <a href="mailto:srihariv4942@gmail.com"><kbd>📧 Email</kbd></a> &nbsp;
+      <a href="https://iamsrihari.com"><kbd>🌐 Website</kbd></a> &nbsp;
+      <a href="https://linkedin.com/in/sriharivvenkatesan"><kbd>💼 LinkedIn</kbd></a> &nbsp;
+      <a href="https://huggingface.co/SrihariV"><kbd>🤗 HuggingFace</kbd></a> &nbsp;
+      <a href="https://medium.com/@ksvhari007"><kbd>✍️ Medium</kbd></a> &nbsp;
+      <a href="https://youtube.com/@TheAtmansAlgorithm"><kbd>🎥 YouTube</kbd></a> &nbsp;
+      <a href="https://instagram.com/srihari_venkatesan"><kbd>📸 Instagram</kbd></a>
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- FOOTER -->
-<div align="center">
-  <h3>💬 <i>"You don't need to know everything — you just need to know who knows, and how to ask."</i></h3>
-  <p><b>Let's build something that lasts.</b></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:1a0a2e,50:0d1b2a,75:1a0a2e,100:0a0a0a&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Wave" />
+![Execution Finished](https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:00e5ff&height=6&section=footer)
+
 </div>
