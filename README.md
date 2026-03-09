@@ -6,17 +6,18 @@
 
 ```
  ╔══════════════════════════════════════════════════════════════════╗
- ║  "The honeybadger doesn't win by being the strongest —         ║
- ║   it wins by refusing to care about the fight."                ║
- ║                              — The Mellivora Hypothesis        ║
+ ║  "Your Stack Has 50 Tools. Zero Intelligence. I Fix It."       ║
+ ║                                                                ║
+ ║                              — iamsrihari.com                  ║
  ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 [![Portfolio](https://img.shields.io/badge/🌐_iamsrihari.com-00e5ff?style=for-the-badge&labelColor=0a0a0a)](https://iamsrihari.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sriharivvenkatesan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriharivvenkatesan)
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/SrihariV)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@TheAtmansAlgorithm)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TheAtmansAlgorithm)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ksvhari007)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srihari_venkatesan/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srihariv4942@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MayaDispeler&label=visitors&color=00e5ff&style=flat-square)
@@ -30,9 +31,9 @@
 
 > **Lead Engineer (AI Consultant)** at Kissflow Inc, Chennai — building AI-powered GTM systems that process millions of data points, automate revenue operations end-to-end, and turn raw CRM chaos into pipeline velocity.
 
-**8+ years** shipping production systems across the full spectrum — from mainframe batch processing at TCS, to PySpark pipelines processing **10M+ events/day** at GAVS, to LLM-powered revenue engines at Kissflow. **3 promotions in 4.5 years.** Clay Certified. Published author.
+**8+ years** shipping production systems — from mainframe batch processing at TCS, to PySpark pipelines processing **10M+ events/day** at GAVS, to LLM-powered revenue engines at Kissflow. **3 promotions in 4.5 years.** Clay Certified. Published author.
 
-I build things that make sales teams faster, data teams calmer, and revenue more predictable.
+I don't just implement tools. I engineer the intelligence layer that makes your entire go-to-market motion self-optimizing.
 
 ---
 
@@ -58,58 +59,85 @@ I build things that make sales teams faster, data teams calmer, and revenue more
 
 ---
 
-## 🔧 Tech Arsenal
+## 🔧 Full Tool Arsenal — 50 Tools
+
+> *Extracted from [iamsrihari.com](https://iamsrihari.com) ToolsGrid — tools I actively use in production.*
 
 <div align="center">
 
-### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+### AI & LLM
+![Claude](https://img.shields.io/badge/Claude-181818?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-886FBF?style=flat-square&logo=googlegemini&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B28D9?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5733?style=flat-square)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square)
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=flat-square)
 
-### **AI / ML / LLM**
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG_Architectures-FF6B6B?style=for-the-badge)
+### Vector DBs
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![Weaviate](https://img.shields.io/badge/Weaviate-FF6347?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
 
-### **Data & Cloud**
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-### **GTM / RevOps / CRM**
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Clay](https://img.shields.io/badge/Clay_Certified-000000?style=for-the-badge)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+### GTM / CRM / RevOps
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Clay](https://img.shields.io/badge/Clay_Certified-000000?style=flat-square)
+![Apollo.io](https://img.shields.io/badge/Apollo.io-4A154B?style=flat-square)
+![ZoomInfo](https://img.shields.io/badge/ZoomInfo-21B573?style=flat-square)
+![LinkedIn Sales Nav](https://img.shields.io/badge/Sales_Navigator-0077B5?style=flat-square&logo=linkedin&logoColor=white)
 
-### **Visualization & BI**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+### Automation & Integration
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make_(Integromat)-6D00CC?style=flat-square&logo=make&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+
+### Data & Warehousing
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white)
+![Fivetran](https://img.shields.io/badge/Fivetran-0073FF?style=flat-square)
+
+### Cloud & Infra
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### Analytics & Marketing
+![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Semrush](https://img.shields.io/badge/Semrush-FF642D?style=flat-square&logo=semrush&logoColor=white)
+![Hotjar](https://img.shields.io/badge/Hotjar-FF3C00?style=flat-square&logo=hotjar&logoColor=white)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square&logo=mixpanel&logoColor=white)
+![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=flat-square&logo=mailchimp&logoColor=black)
+
+### Productivity
+![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=flat-square)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
+![Retool](https://img.shields.io/badge/Retool-3D3D3D?style=flat-square&logo=retool&logoColor=white)
+![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=flat-square&logo=calendly&logoColor=white)
+![Loom](https://img.shields.io/badge/Loom-625DF5?style=flat-square&logo=loom&logoColor=white)
 
 </div>
 
 ---
 
 ## 🏗️ Production Impact — By the Numbers
-
-<div align="center">
 
 ```
 ╔═══════════════════╦═══════════════════╦═══════════════════╦═══════════════════╗
@@ -121,93 +149,93 @@ I build things that make sales teams faster, data teams calmer, and revenue more
 ╚═══════════════════╩═══════════════════╩═══════════════════╩═══════════════════╝
 ```
 
-</div>
-
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Portfolio Projects
+
+> *9 projects featured on [iamsrihari.com/#work](https://iamsrihari.com/#work). Links marked ❌ are portfolio-only (no public repo/demo yet).*
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Morsent-128-mini
-**Fine-tuned GPT-2 for English↔Morse translation**
-Sci-fi humor baked into a 128-token context model. Published on HuggingFace.
+### 🔮 B2B Intent Signal Engine
+Firmographic + technographic + intent scoring. Identifies high-intent prospects by combining funding events, tech stack changes, and hiring patterns.
 
-[![HF](https://img.shields.io/badge/🤗_Live_Model-FFD21E?style=flat-square)](https://huggingface.co/SrihariV/Morsent-128-mini)
+❌ Portfolio demo only
+
+</td>
+<td width="50%" valign="top">
+
+### 🕵️ Account Intelligence Agent
+AI-powered account research & sales dossiers. Scrapes company websites and generates intelligence slide decks for GTM teams.
+
+❌ Portfolio demo only
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 AI Lead Scoring Engine
+Weighted multi-signal lead qualification with configurable scoring and automated routing logic.
+
+❌ Portfolio demo only
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Pitch.AI — Email Personalization
+LLM-powered email engine crafting contextual messaging based on company data, role, and intent signals.
+
+❌ Portfolio demo only
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 ICP Scoring & Analysis Tool
+Streamlit dashboard processing large synthetic company datasets with configurable weighted scoring.
+
+❌ Portfolio demo only
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎯 Customer Churn Predictor
-**XGBoost + SHAP explainability engine**
-Predicts churn with actionable retention recommendations. Live on HuggingFace Spaces.
+XGBoost + SHAP explainability engine. Predicts churn with actionable retention recommendations.
 
-[![Live](https://img.shields.io/badge/🔴_Live_Demo-FF4B4B?style=flat-square)](https://srihariv-customer-churn-predictor.hf.space)
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/customer-churn-predictor)
+[![Live](https://img.shields.io/badge/🔴_Live-FF4B4B?style=flat-square)](https://srihariv-customer-churn-predictor.hf.space) [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/customer-churn-predictor)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 📄 AI Document Assistant (Contextly)
-**RAG-powered PDF analyzer with semantic search**
-LangChain + retrieval-augmented generation for intelligent document Q&A.
-
-[![Live](https://img.shields.io/badge/🔴_Live_App-FF4B4B?style=flat-square)](https://contextly.streamlit.app)
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/DOC-AI-APP)
-
-</td>
 <td width="50%" valign="top">
 
 ### 📊 AI Business Intelligence Reporter
-**Natural language → SQL → Visual analytics**
-Ask questions in plain English, get charts and insights. Full NL2SQL pipeline.
+Natural language → SQL → Visual analytics. Full NL2SQL pipeline.
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/AI-Data-Analyst)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍊 Swiggy Analytics Dashboard
-**5,000+ orders analyzed with heatmaps & delivery insights**
-End-to-end data analytics dashboard built for food delivery operations.
-
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/orange-swiggy-analytics)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ PySpark Pro Playbook
-**Comprehensive big data engineering guide**
-Hands-on reference for PySpark patterns, optimizations, and production data pipelines.
-
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/PySpark-Pro-Playbook)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔥 Firewall Threat Detection
-**ML-based anomaly detection on firewall logs**
-Proactive threat analysis using machine learning for network security.
-
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/firewall-threat-detection)
+[![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/AI-Data-Analyst)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📈 CPG Demand Forecasting
-**ML-powered demand prediction for CPG industry**
-Predictive modeling for supply chain and inventory optimization.
+ML-powered demand prediction for CPG industry. Supply chain & inventory optimization.
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/CPG-Demand-Forecasting)
+[![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/CPG-Demand-Forecasting)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📄 Contextly — AI Document Assistant
+RAG-powered PDF analyzer with semantic search. LangChain + retrieval-augmented generation.
+
+[![Live](https://img.shields.io/badge/🔴_Live-FF4B4B?style=flat-square)](https://contextly.streamlit.app) [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/DOC-AI-APP)
 
 </td>
 </tr>
@@ -216,30 +244,35 @@ Predictive modeling for supply chain and inventory optimization.
 
 ---
 
-## 📚 The Mellivora Hypothesis — My Book
+## 🧪 All GitHub Repositories (13 total)
 
-<div align="center">
+| # | Project | Description | Links |
+|---|---------|-------------|-------|
+| 1 | **CPG-Demand-Forecasting** | ML demand prediction for CPG industry | [![Code](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/CPG-Demand-Forecasting) |
+| 2 | **DOC-AI-APP** | RAG PDF analyzer (Contextly) | [![Code](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/DOC-AI-APP) [![Live](https://img.shields.io/badge/-Live-FF4B4B?style=flat-square)](https://contextly.streamlit.app) |
+| 3 | **Morsent-128-Mini** | Fine-tuned GPT-2 English↔Morse | [![Code](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/Morsent-128-Mini) [![HF](https://img.shields.io/badge/-Model-FFD21E?style=flat-square)](https://huggingface.co/SrihariV/Morsent-128-mini) |
+| 4 | **orange-swiggy-analytics** | 5K+ order analytics dashboard | [![Code](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/orange-swiggy-analytics) |
+| 5 | **PySpark-Pro-Playbook** | Big data engineering guide | [![Code](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/PySpark-Pro-Playbook) |
+| 6 | **customer-churn-predictor** | XGBoost + SHAP churn model | [![Code](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/customer-churn-predictor) [![Live](https://img.shields.io/badge/-Live-FF4B4B?style=flat-square)](https://srihariv-customer-churn-predictor.hf.space) |
+| 7 | **AI-Data-Analyst** | NL2SQL visual analytics | [![Code](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/AI-Data-Analyst) |
+| 8 | **firewall-threat-detection** | ML anomaly detection on firewall logs | [![Code](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/MayaDispeler/firewall-threat-detection) |
 
-```
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│   📖  THE MELLIVORA HYPOTHESIS                             │
-│   ─────────────────────────────                            │
-│   "Ignoring Market Signals Might Be Your Best Strategy"    │
-│                                                            │
-│   A book about thick-skinned economics, strategic          │
-│   ignorance, and why fearless mediocrity beats             │
-│   cautious excellence in uncertain markets.                │
-│                                                            │
-│   12 Chapters  •  45,000+ Words  •  Business Strategy      │
-│                                                            │
-│   Built from 8 years of navigating the messy middle        │
-│   of tech careers — from mainframes to AI.                 │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
+> *Remaining 5 repos (portfolio site source, profile README, etc.) → [View all repos](https://github.com/MayaDispeler?tab=repositories)*
 
-</div>
+---
+
+## 🌐 Live Deployments
+
+> *From the "Live Apps" section on [iamsrihari.com/#apps](https://iamsrihari.com/#apps)*
+
+| App | URL | Platform |
+|-----|-----|----------|
+| 🌀 **Nexus 4D** — 4D visualization | [nexus4d.netlify.app](https://nexus4d.netlify.app) | Netlify |
+| ☢️ **The Last Shift** — Chernobyl sim | [thelastshift.netlify.app](https://thelastshift.netlify.app/) | Netlify |
+| 📄 **Contextly** — AI Doc Assistant | [contextly.streamlit.app](https://contextly.streamlit.app) | Streamlit Cloud |
+| 🎯 **Churn Predictor** | [HF Spaces](https://srihariv-customer-churn-predictor.hf.space) | HuggingFace Spaces |
+| 🧠 **Morsent-128-mini** (model) | [HF Hub](https://huggingface.co/SrihariV/Morsent-128-mini) | HuggingFace Hub |
+| 🌐 **Portfolio** | [iamsrihari.com](https://iamsrihari.com) | Netlify |
 
 ---
 
@@ -284,19 +317,53 @@ NOW ───── Building ──────── AI-powered GTM tools, open
 ![IBM](https://img.shields.io/badge/IBM_Data_Science_Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot_RevOps_Certified-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![Clay](https://img.shields.io/badge/Clay_Certified-000000?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS_Data_Engineering-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/AWS_Data_Eng_(In_Progress)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Salesforce](https://img.shields.io/badge/SFDC_Dev_(In_Progress)-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 What I'm Working On Now
+## 📬 Work Acumen
+
+> *From [iamsrihari.com/#about](https://iamsrihari.com/#about)*
+
+| Domain | What I Build |
+|--------|-------------|
+| **AI Engineering** | Production-grade AI agents, RAG systems, and LLM workflows that solve real business problems — not demos. |
+| **GTM Engineering** | Data infrastructure and automated pipelines that turn outbound, inbound, and PLG motions into precision engines. |
+| **RevOps & CRM Architecture** | End-to-end HubSpot and Clay ecosystems with automation that eliminates manual work and scales revenue ops. |
+| **Automation & Integration** | Connecting every tool in your stack into one intelligent system — webhooks, APIs, workflows. |
+
+---
+
+## 📚 The Mellivora Hypothesis
+
+```
+┌────────────────────────────────────────────────────────────┐
+│   📖  THE MELLIVORA HYPOTHESIS                             │
+│   "Ignoring Market Signals Might Be Your Best Strategy"    │
+│                                                            │
+│   Part I: The Hypothesis   │  Part III: The Advantage      │
+│   Part II: The Middle Game │  Part IV: The Execution       │
+│                                                            │
+│   12 Chapters  •  45,000+ Words  •  Business Strategy      │
+│                                                            │
+│   "The honeybadger doesn't win by being the strongest —    │
+│    it wins by refusing to care about the fight."           │
+└────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🎯 Current Focus
 
 ```diff
-+ Building AI-powered GTM portfolio tools (ICP Scoring, Account Research Agent)
++ Building AI-powered GTM portfolio tools (B2B Intent, Account Intel, ICP Scoring)
 + Fine-tuning models on HuggingFace (Morsent-128-mini published)
 + Writing The Mellivora Hypothesis
 + Pursuing AWS Data Engineering & Salesforce Developer certifications
++ Shipping live web apps (Nexus 4D, The Last Shift)
 ! Open to: GTM Engineer / AI Engineer / Solutions Architect roles
 ```
 
@@ -309,13 +376,17 @@ NOW ───── Building ──────── AI-powered GTM tools, open
 <br>
 
 ```
-  ╭──────────────────────────────────────╮
-  │  Let's build something that lasts.   │
-  │                                      │
-  │  📧  srihariv4942@gmail.com          │
-  │  🌐  iamsrihari.com                  │
-  │  💼  linkedin.com/in/sriharivvenkatesan  │
-  ╰──────────────────────────────────────╯
+  ╭──────────────────────────────────────────────╮
+  │  Let's build something that lasts.           │
+  │                                              │
+  │  📧  srihariv4942@gmail.com                  │
+  │  🌐  iamsrihari.com                          │
+  │  💼  linkedin.com/in/sriharivvenkatesan      │
+  │  🤗  huggingface.co/SrihariV                 │
+  │  ✍️  medium.com/@ksvhari007                  │
+  │  🎥  youtube.com/@TheAtmansAlgorithm         │
+  │  📸  instagram.com/srihari_venkatesan        │
+  ╰──────────────────────────────────────────────╯
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:1a0a2e,50:0d1b2a,75:1a0a2e,100:0a0a0a&height=120&section=footer&animation=fadeIn" width="100%"/>
